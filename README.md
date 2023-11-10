@@ -1,4 +1,6 @@
-# Jaqueline Bianco
+<img src='https://raw.githubusercontent.com/jaquezux/jaqueline-portfolio-index/main/banner.png'>
+
+## 💮 Welcome to my portfolio! 💮<br>
 Here you will find some of my featured works and personal projects as a data analyst.
 
 <table border="1">
