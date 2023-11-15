@@ -46,4 +46,4 @@ Here you will find some of my featured works and personal projects as a data ana
 <br>
 
 ---
-<img src='https://raw.githubusercontent.com/jaquezux/jaqueline-portfolio-index/main/footer.png'>
+<img src='https://raw.githubusercontent.com/jaquezux/jaqueline-portfolio-index/main/footer.png' width=100%>
