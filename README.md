@@ -1,6 +1,6 @@
 <img src='https://raw.githubusercontent.com/jaquezux/jaqueline-portfolio-index/main/banner.png'>
 
-## 💮 Welcome to my portfolio! 💮 <br>
+## 💮 Welcome to my portfolio! <br>
 Here you will find some of my featured works and personal projects as a data analyst.
 <br>
 
@@ -14,12 +14,12 @@ Here you will find some of my featured works and personal projects as a data ana
     <tr>
         <td><a href="https://github.com/jaquezux/SQL-8-week-challenge/blob/main/case-study-1/case-study-1.md">SQL Challenge - Danny's Dinner</a></td>
         <td>PostgreSQL, DBFiddle</td>
-        <td>Exploratory analysis using PostgreSQL to help Danny’s Diner on his business. This project is part of the SQL 8 Week challenge offered by Data with Danny.</td>
+        <td>This challenge is important because I learned how to use <strong>SQL RANK functions and practice JOINS</strong>. Besides that, some questions could have more than one answer, and I had to consider how to proceed to cover any situation.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jaquezux/videogame-sales/blob/main/videogame-sales.ipynb">Video Games Sales</a></td>
         <td>Python, Pandas, Matplotlib</td>
-        <td>I built this notebook to explore a video games dataset using Python and exploring some data libraries such as pandas and matplotlib.</td>
+        <td>This is my first exploratory analysis using Python. It was important because I could learn how to use some libraries such as <strong>Pandas, Numpy and Matplotlib</strong>. The dataset covers all bestseller games and its platforms in a range of time, so in order to segmenting my analysis, I focused on Shooter genre for Playstation platform.</td>
     </tr>
 </table>
 <br>
