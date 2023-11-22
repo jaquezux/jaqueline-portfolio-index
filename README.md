@@ -18,7 +18,7 @@ Here you will find some of my featured works and personal projects as a data ana
     </tr>
     <tr>
         <td><a href="https://github.com/jaquezux/videogame-sales/blob/main/videogame-sales.ipynb">Video Games Sales</a></td>
-        <td>Jupyter Notebook, Python, Pandas, Matplotlib</td>
+        <td>Python, Pandas, Matplotlib</td>
         <td>I built this notebook to explore a video games dataset using Python and exploring some data libraries such as pandas and matplotlib.</td>
     </tr>
 </table>
